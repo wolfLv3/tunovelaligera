@@ -2,7 +2,7 @@
   {
     "name": "Mis Novelas Personales",
     "author": "wolfLv3",
-    "url": "https://raw.githubusercontent.com/wolfLv3/tunovelaligera/main",
+    "url": "https://raw.githubusercontent.com/wolfLv3/tunovelaligera/main/", 
     "icon": "https://raw.githubusercontent.com/wolfLv3/tunovelaligera/main/icon.png",
     "sources": [
       {
@@ -17,5 +17,4 @@
       }
     ]
   }
-
 ]
