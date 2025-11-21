@@ -2,15 +2,15 @@
   {
     "name": "Mis Novelas Personales",
     "author": "wolfLv3",
-    "url": "https://raw.githubusercontent.com/wolfLv3/tunovelaligera/main/", 
-    "icon": "https://raw.githubusercontent.com/wolfLv3/tunovelaligera/main/icon.png",
+    "url": "https://raw.githubusercontent.com/wolfLv3/tunovelaligera/main/",
+    "icon": "icon.png",  
     "sources": [
       {
         "id": "tunovelaligera",
         "name": "TuNovelaLigera",
         "url": "https://tunovelaligera.com",
         "version": "1.0.0",
-        "icon": "https://raw.githubusercontent.com/wolfLv3/tunovelaligera/main/icon.png",
+        "icon": "icon.png",  
         "lang": "es",
         "type": "js",
         "file": "sources/tunovelaligera.js"
